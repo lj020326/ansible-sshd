@@ -1,3 +1,12 @@
 .vagrant
 tests/test.retry
 .tox
+
+.idea/
+.vscode/
+venv/
+save/
+.DS_Store
+
+*~
+*.log
